@@ -41,9 +41,7 @@ This imbalance **costs money**, as resources could be redirected to regions with
 ---
 
 ## 🛠 Tools Used
-- **Power BI** → Interactive dashboard creation and data visualization.  
-- **DAX (Data Analysis Expressions)** → Custom calculations and measures.  
-- **Data Cleaning & Transformation** → Data prepared and structured inside Power BI (Power Query).  
+- **Power BI** → Interactive dashboard creation and data visualization.   
 - **CSV/Relational Dataset** → Base dataset containing GDP and spending obligations by municipality.  
 
 ---
